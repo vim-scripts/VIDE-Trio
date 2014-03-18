@@ -1,0 +1,19 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4898
+
+Vim as an IDE provides an out of the box IDE like experience using existing vim plugins.
+
+You can find more information at https://github.com/hutchinson/vide/releases/tag/1.0.0
+
+Currently vide provides:
+
+- File browsing via NERDTree
+- Buffer browsing using MiniBufExplorer
+- Function/Class outline viewer using Tagbar
+
+A customised .vimrc file which integrates these plugins and other vim features to provide a basic integrated development environment.
+
+Requirements
+- vim 7.3 (known to work on this version)
+- Exuberant CTags available here: http://ctags.sourceforge.net
+
+
